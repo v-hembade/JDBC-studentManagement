@@ -1,2 +1,2 @@
-# JDBC-studentManagement
+# JDBC-StudentManagement
 java jdbc project
